@@ -32,18 +32,12 @@ class ONLINE implements Plugin
 	                        $this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/SimpleAUTH.php");
 				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/SimpleWarp.php");
 				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/Siri.php");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
-				$this->api->plugin->load("");
+				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/TimeCap.php");
+				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/TimePVP.php");
+				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/TimerBan.php");
+				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/WPortal.php");
+				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/Warp.php");
+				$this->api->plugin->load("https://raw.github.com/QuantumWorks/Server-/master/PluginsOnline/reservedslot.php");
 																				$this->api->plugin->load("");
 																						$this->api->plugin->load("");
 	}
